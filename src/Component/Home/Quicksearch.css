@@ -1,0 +1,51 @@
+
+.titleconatiner{
+    width:300px;
+    height:150px;
+    background-color:white;
+    box-shadow:10px 5px 5px 5px grey;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px ;
+    overflow:hidden;
+    transition:box-shadow(0.3);
+}
+.titleconatiner:hover{
+    box-shadow: 1px 1px 10px #000;
+    cursor:pointer;
+}
+.titlecompoent1{
+    width:50%;
+    float:left;
+}
+.titlecompoent2{
+    
+    width:36%;
+    float:left;   
+}
+.quicksearchConatiner{
+    margin-left:145px;
+    margin-top:50px;
+}
+.quicksearchheading{
+    color:black;
+    font-size:30px;
+    font-weight:bold;
+    font-weight:700;
+    font-family:Poppins;
+    line-height:.1;
+}
+.quicksearchsubheading{
+    color:black;
+    font-size:30px;
+    font-family:Poppins;
+    font-weight:normal;
+}
+
+.componetheading{
+    color:black;
+    font-weight: 400;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+

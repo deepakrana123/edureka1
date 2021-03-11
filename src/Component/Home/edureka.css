@@ -1,0 +1,53 @@
+.quicksearchConatiner{
+    margin-left:145px;
+    margin-top:45px;
+}
+.quicksearchheading{
+    color:yellowgreen;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Poppins;
+    line-height:.1;
+}
+.quicksearchsubheading{
+    color:black;
+    font-size:30px;
+    font-family:Poppins;
+    font-weight:normal;
+}
+.titleconatiner{
+    width:350px;
+    height:150px;
+    background-color:white;
+    box-shadow:6px 10px 15px grey;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px ;
+
+}
+.titlecompoent1{
+    width:40%;
+    float:left;
+}
+.titlecompoent2{
+
+    width:50%;
+    float:left;   
+}
+.compoentheading{
+    color:black;
+    font-weight:Poppins;
+    font-size:25px;
+    font-weight:bold;
+    margin-top:25px;
+    display:flex;
+
+}
+.compoentsubheading{
+    color:orange;
+    font-weight:Poppins;
+    font-size:20px;
+    font-weight:bold;
+    display:flex;
+
+}
